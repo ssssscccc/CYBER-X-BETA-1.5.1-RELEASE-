@@ -18,7 +18,7 @@
 			"BOT_NUMBER": {
 			"description": "Change the Bot Number",
 			"required": true,
-			"value": "94778962038"
+			"value": "94724749864"
 			},
 			"STICKERS_NAME": {
 			"description": "Add the Stickers Name",
@@ -28,7 +28,7 @@
 			"OWNER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
+			"value": "sudda"
 			},
 			"FOOTER": {
 			"description": "Add Your Button Massage's Footer",
