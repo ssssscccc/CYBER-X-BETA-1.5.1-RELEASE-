@@ -1,19 +1,19 @@
 {
-  "name": "CYBER-X 1.5 BETA",
-  "description": "ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ",
+  "name": "💞ꜱᴜᴅᴅᴀ ʙᴏᴛ💞",
+  "description": "❎ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ꜱᴜᴅᴅᴀ❎",
   "repository": "https://github.com/darkalphaxteam/CYBER-X-BETA-1.5.1-RELEASE-",
-  "logo": "https://telegra.ph/file/0c126ae19dca72ab0cae0.jpg",
+  "logo": "https://telegra.ph/file/95746df52d8c91d27e6b7.jpg",
   "keywords": ["nodejs", "Bot", "WhatsApp Bot", "WhatsApp Automation", "Multi Device"],
    "env": {
           	"SUDO_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "94711421243"
+			"value": "94724749864"
 		    },
 		    "BOT_NAME": {
 			"description": "Change the bot Name here",
 			"required": true,
-			"value": "CYBER-X BETA 1.5"
+			"value": "💛ꜱᴜᴅᴅᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ💛"
 			},
 			"BOT_NUMBER": {
 			"description": "Change the Bot Number",
@@ -28,7 +28,7 @@
 			"OWNER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "sudda"
+			"value": "sudda ᴏꜰꜰɪᴄɪᴀʟ"
 			},
 			"FOOTER": {
 			"description": "Add Your Button Massage's Footer",
@@ -38,17 +38,17 @@
 			"ALIVE_IMAGE": {
 			"description": "Add Your Alive Image Derect Link",
 			"required": true,
-			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
+			"value": "https://i.ibb.co/x8z5WG8/MI-29082022-005049.png"
 			},
 			"ALIVE_MSG": {
 			"description": "Add Your Alive massage",
 			"required": true,
-			"value": "Hellow I'm Alive"
+			"value": "Hellow ʙᴏᴛ ᴏɴʟɪɴᴇ ɴᴏᴡ"
 			},
 			"MENU_IMAGE": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "https://telegra.ph/file/bd50f0727084519bf78e9.jpg"
+			"value": "https://telegra.ph/file/95746df52d8c91d27e6b7.jpg"
 			},
 			"WELCOME_IMAGE": {
 			"description": "Add Your Welcome Image",
@@ -63,7 +63,21 @@
 			"CAPTION": {
 			"description": "Add Your Downloaded Video's Caption",
 			"required": true,
-			"value": "ʙʏ ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ"
+			"value": "😈 ꜱᴜᴅᴅᴀ ʙᴏᴛ 😈
+
+ 🤜                  🤛
+
+🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️
+
+thanks for using    🥷  🥷 🥷
+
+*sudda bot*🙏           🎧🎬
+
+❤️❤️❤️❤️❤️
+
+❄❄❄❄❄
+
+❤️❤️❤️❤️❤️"
 			},
 			"YOUR_WEB": {
 			"description": "Add Your web or a nother Link",
@@ -88,7 +102,7 @@
 			"DEPLOYER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "DARK ALPHA"
+			"value": "ᴋɪɴɢ ꜱᴜᴅᴅᴀ"
 			},
 			"LOCATION": {
 			"description": "Add Your Location",
@@ -108,12 +122,12 @@
 			"THEME_EMOJI": {
 			"description": "Add Your Favorite Emoji",
 			"required": true,
-			"value": "⛽"
+			"value": "👀"
 			},
 			"INBOX_MSG": {
 			"description": "Add Your Inbox Back Massage",
 			"required": true,
-			"value": "*ᴄʏʙᴇʀ-x ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴏɴʟʏ ᴡᴏʀᴋɪɴɢ ɪɴ ɢʀᴏᴜᴘꜱ*"
+			"value": "*ᴄʏʙᴇʀ-x ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴏɴʟʏ ᴡᴏʀᴋɪɴɢ ɪɴ ɢʀᴏᴜᴘꜱ* sorry https://chat.whatsapp.com/F70dDJFzw579hN9ZYYJrb5"
 			}
 			
           },
